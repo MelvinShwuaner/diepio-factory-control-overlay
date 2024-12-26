@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
-// @author       adasba and 325 Gerbils
+// @author       adasba and 325 Gerbils, fixed by melvin shwuaner
 // @match        https://diep.io/*
 // @grant        none
 // @downloadURL https://update.greasyfork.org/scripts/420702/Diep%20Factory%20Controls%20Overlay.user.js
